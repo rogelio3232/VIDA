@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1,24 Horas
+http://201.222.44.29:8000/play/a00m
+#EXTINF:-1,AE Mundo
+http://201.222.44.29:8000/play/a02q
+#EXTINF:-1, AXN
+http://201.222.44.29:8000/play/a01x
+#EXTINF:-1,Animal Planet
+http://201.222.44.29:8000/play/a02h
+#EXTINF:-1,BabyFirst
+http://201.222.44.29:8000/play/a07v
+#EXTINF:-1,CANAL 13
+http://201.222.44.29:8000/play/a07k
+#EXTINF:-1,CDF Básico
+http://201.222.44.29:8000/play/a02p
+#EXTINF: -1,CDF PREMIUM
+http://201.222.44.29:8000/play/a00b
+#EXTINF:-1,CHV
+http://201.222.44.29:8000/play/a008
+#EXTINF:-1,CNN Chile
+http://201.222.44.29:8000/play/a00z
+#EXTINF:-1,CNN Español
+http://201.222.44.29:8000/play/a004
+#EXTINF:-1,Canal de Las estrellas
+http://201.222.44.29:8000/play/a032
+#EXTINF:-1,Cartoon Network
+http://201.222.44.29:8000/play/a012
+#EXTINF:-1,Cinecanal
+http://201.222.44.29:8000/play/a00s
+#EXTINF:-1,Cinemax
+http://201.222.44.29:8000/play/a01v
+#EXTINF: -1, Discovery Channel
+http://201.222.44.29:8000/play/a02g
+#EXTINF:-1, Discovery ID
+http://201.222.44.29:8000/play/a01a
+#EXTINF:-1, Discovery Kids
+http://201.222.44.29:8000/play/a003
+#EXTINF:-1,Discovery Turbo
+http://201.222.44.29:8000/play/a027
+#EXTINF:-1,Disney Channel
+http://201.222.44.29:8000/play/a02f
+#EXTINF:-1,Disney Jr.
+http://201.222.44.29:8000/play/a00k
+#EXTINF:-1,E Entretenimiento
+http://201.222.44.29:8000/play/a02j
+#EXTINF:-1,ESPN
+http://201.222.44.29:8000/play/a02l
+#EXTINF:-1,ESPN 2
+http://201.222.44.29:8000/play/a02m
+#EXTINF:-1,ESPN 3
+http://201.222.44.29:8000/play/a029
+#EXTINF:- 1,ESPN 4
+http://201.222.44.29:8000/play/a07m
+#EXTINF:-1,Enlace
+http://201.222.44.29:8000/play/a03f
+#EXTINF:-1,FX
+http://201.222.44.29:8000/play/a01z
+#EXTINF:-1,Fox Deportes 1
+http://201.222.44.29:8000/play/a087
+#EXTINF:-1,Fox Deportes 2
+http://201.222.44.29:8000/play/a033
+#EXTINF:-1, Fox Sports 3
+http://201.222.44.29:8000/play/a034
+#EXTINF:-1,Fox Sports Premium
+http://201.222.44.29:8000/play/a00c
+#EXTINF:-1,Francia 24
+http://201.222.44.29:8000/play/a07y
+#EXTINF:-1,HBO
+http://201.222.44.29:8000/play/a01u
+#EXTINF:-1,HBO 2
+http://201.222.44.29:8000/play/a00g
+#EXTINF:-1,HBO Familia
+http://201.222.44.29:8000/play/a00j
+#EXTINF:-1,HBO Plus
+http://201.222.44.29:8000/play/a00h
+#EXTINF:-1,HBO XTREME SD
+http://201.222.44.29:8000/play/a07u
+#EXTINF :-1,History Channel
+http://201.222.44.29:8000/play/a00r
+#EXTINF:-1,Hogar y Salud
+http://201.222.44.29:8000/play/a01d
+#EXTINF:-1,I-Sat
+http://201.222.44.29:8000/play/a00v
+#EXTINF:-1,La Roja
+http://201.222.44.29:8000/play/a005
+#EXTINF:-1,Vida útil
+http://201.222.44.29:8000/play/a07w
+#EXTINF:-1,MTV
+http://201.222.44.29:8000/play/a00w
+#EXTINF:-1,Max Prime
+http://201.222.44.29:8000/play/a00i
+#EXTINF:-1,Mega
+http://201.222.44.29:8000/play/a007
+#EXTINF:-1, NTV
+http://201.222.44.29:8000/play/a07p
+#EXTINF:-1,Nat Geo
+http://201.222.44.29:8000/play/a00q
+#EXTINF:-1,Nick Jr
+http://201.222.44.29:8000/play/a026
+#EXTINF:-1,Nickelodeon
+http://201.222.44.29:8000/play/a00o
+#EXTINF:-1,RCN Novelas
+http://201.222.44.29:8000/play/a037
+#EXTINF: -1, CANAL ESTRELLA
+http://201.222.44.29:8000/play/a07l
+#EXTINF:-1,Sony
+http://201.222.44.29:8000/play/a01w
+#EXTINF:-1,Espacio
+http://201.222.44.29:8000/play/a01y
+#EXTINF:-1,SyFy
+http://201.222.44.29:8000/play/a07x
+#EXTINF:-1,TBS
+http://201.222.44.29:8000/play/a038
+#EXTINF:-1,TCM
+http://201.222.44.29:8000/play/a010
+#EXTINF:-1,TLC
+http://201.222.44.29:8000/play/a07z
+#EXTINF:-1,TNT
+http://201.222.44.29:8000/play/a013
+#EXTINF:-1,TNT DEPORTES 3
+http://201.222.44.29:8000/play/a086
+#EXTINF:-1,TV+ HD
+http://201.222.44.29:8000/play/a08t
+#EXTINF:-1,TVE
+http://201.222.44.29:8000/play/a03g
+#EXTINF:-1,TVN
+http://201.222.44.29:8000/play/a006
+#EXTINF:-1,Telemundo
+http://201.222.44.29:8000/play/a035
+#EXTINF:-1,Viajes y Vivir
+http://201.222.44.29:8000/play/a030
+#EXTINF:-1,TyC Sports
+http://201.222.44.29:8000/play/a02o
+#EXTINF:-1,Universal
+http://201.222.44.29:8000/play/a00t
+#EXTINF:-1,ViaX
+http://201.222.44.29:8000/play/a031
+#EXTINF:-1,Warner
+http://201.222.44.29:8000/play/a05i
+#EXTINF:-1,Zona Latina
+http://201.222.44.29:8000/play/a00x
